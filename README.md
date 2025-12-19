@@ -2,7 +2,8 @@
 A complete guide to preprocessing Electrodermal Activity (EDA) and Photoplethysmography (PPG) signals using Python and NeuroKit2, followed by detailed documentation of all available features for stress classification research.
 
 After completing the preprocessing steps, proceed to model training:  
-https://github.com/ScenerYOne/Stress_Classification_TensorflowLSTM.git
+ [ScenerYOne/Stress_Classification_TensorflowLSTM](https://github.com/ScenerYOne/Stress_Classification_TensorflowLSTM)
+
 
 ## Installation and Setup
 
@@ -209,4 +210,5 @@ Returns `signals` (DataFrame) and `info` (dict).
 Reference: https://neuropsychology.github.io/NeuroKit/functions/ppg.html
 
 ---
+
 
