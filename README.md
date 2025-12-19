@@ -96,7 +96,7 @@ The files in `Final/` are ready for feature extraction and model input.
 Once preprocessing is complete, use the concatenated datasets for training:
 
 **Stress Classification with TensorFlow LSTM**  
-Repository: https://github.com/ScenerYOne/Stress_Classification_TensorflowLSTM.git
+Repository:  [ScenerYOne/Stress_Classification_TensorflowLSTM](https://github.com/ScenerYOne/Stress_Classification_TensorflowLSTM)
 
 Includes feature extraction, sequence preparation, LSTM model architecture, training, and evaluation.
 
@@ -210,5 +210,6 @@ Returns `signals` (DataFrame) and `info` (dict).
 Reference: https://neuropsychology.github.io/NeuroKit/functions/ppg.html
 
 ---
+
 
 
